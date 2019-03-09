@@ -1,4 +1,5 @@
 <?php
+require 'vendor/autoload.php';
 	$video = 'video.mp4';//Url del video
 	$salida = 'ejemplo1.mp4';//Nombre de salida
 	
